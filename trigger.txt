@@ -1,1 +1,1 @@
-nginx:1.27-perl registry.cn-hangzhou.aliyuncs.com/2casiku/docker_hub/nginx:1.27-perl
+
